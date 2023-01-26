@@ -1,0 +1,200 @@
+.Homepage {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logohomepage {
+  width: 500px;
+}
+
+.toplogo {
+  background-color: white;
+  margin: 20px;
+  border-radius: 20px;
+  border: 4px solid rgb(242, 178, 17);
+
+}
+
+.welcome {
+  font-family: "Sarabun", sans-serif;
+  font-size: 40px;
+  color: white;
+}
+
+.contenthomepage {
+  width: 500px;
+  background-color: white;
+  font-family: "Righteous", cursive;
+  border-radius: 20px;
+  padding: 10px;
+  border: 4px solid rgb(242, 178, 17);
+
+}
+
+.navbar{
+  display:flex;
+  justify-content: center;
+  background-color: black;
+  padding-top: 10px;
+}
+
+.loadingpage{
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
+.loadingimg{
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 500px;
+}
+
+.homepagebuttonparent{
+  display: flex;
+
+  margin: 0 20px;
+}
+
+.homepagebuttons{
+  padding: 10px 20px;
+  font-family: "Righteous", cursive;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  margin: 10px 15px;
+  border: none;
+  background-color:rgb(242, 178, 17) ;
+  border-radius: 3px;
+}
+
+.link{
+  text-decoration: none underline;
+  color: inherit
+}
+
+.postlist{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.postlisttitle{
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.signup{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signupformframe{
+  border: 4px solid rgb(242, 178, 17);
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  background-color: white;
+  padding: 10px;
+  font-family: "Righteous", cursive;
+  
+}
+
+.inputforms{
+  text-align: center;
+  width:120px;
+  height:20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.postdetails{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.postdetailsframe{
+  width:500px;
+  border: 4px solid rgb(242, 178, 17);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+  font-family: "Righteous", cursive;
+}
+
+.userprofile{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.userprofileframe{
+  width:500px;
+  border: 4px solid rgb(242, 178, 17);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+  font-family: "Righteous", cursive;
+}
+
+.inputformscommentcontent{
+  height: 100px;
+  width: 400px;
+  text-align: center;
+  font-family: "Righteous", cursive;
+
+}
+
+.newpostomponent{
+
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.newpostframe{
+
+  width:500px;
+  border: 4px solid rgb(242, 178, 17);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+  font-family: "Righteous", cursive;
+
+}
